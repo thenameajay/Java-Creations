@@ -1,0 +1,2 @@
+This is a game based on server and client module.
+In this game, one of the player is server and another is a client program.
